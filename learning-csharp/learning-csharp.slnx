@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/01-hello/" />
+  <Folder Name="/01-hello/exercicios/">
+    <Project Path="01-hello/exercicios/01a-brushtif/01a-brushtif.csproj" />
+  </Folder>
+  <Project Path="01-hello/01-hello.csproj" />
+</Solution>

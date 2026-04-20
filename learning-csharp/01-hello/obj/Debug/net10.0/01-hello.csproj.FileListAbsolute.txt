@@ -1,0 +1,15 @@
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\01-hello\bin\Debug\net10.0\01-hello.exe
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\01-hello\bin\Debug\net10.0\01-hello.deps.json
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\01-hello\bin\Debug\net10.0\01-hello.runtimeconfig.json
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\01-hello\bin\Debug\net10.0\01-hello.dll
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\01-hello\bin\Debug\net10.0\01-hello.pdb
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\01-hello\obj\Debug\net10.0\01-hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\01-hello\obj\Debug\net10.0\01-hello.AssemblyInfoInputs.cache
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\01-hello\obj\Debug\net10.0\01-hello.AssemblyInfo.cs
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\01-hello\obj\Debug\net10.0\01-hello.csproj.CoreCompileInputs.cache
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\01-hello\obj\Debug\net10.0\01-hello.sourcelink.json
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\01-hello\obj\Debug\net10.0\01-hello.dll
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\01-hello\obj\Debug\net10.0\refint\01-hello.dll
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\01-hello\obj\Debug\net10.0\01-hello.pdb
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\01-hello\obj\Debug\net10.0\01-hello.genruntimeconfig.cache
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\01-hello\obj\Debug\net10.0\ref\01-hello.dll
