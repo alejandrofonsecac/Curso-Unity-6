@@ -1,0 +1,15 @@
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\03-Strings\obj\Debug\net10.0\03-Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\03-Strings\obj\Debug\net10.0\03-Strings.AssemblyInfoInputs.cache
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\03-Strings\obj\Debug\net10.0\03-Strings.AssemblyInfo.cs
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\03-Strings\obj\Debug\net10.0\03-Strings.csproj.CoreCompileInputs.cache
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\03-Strings\obj\Debug\net10.0\03-Strings.sourcelink.json
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\03-Strings\bin\Debug\net10.0\03-Strings.exe
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\03-Strings\bin\Debug\net10.0\03-Strings.deps.json
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\03-Strings\bin\Debug\net10.0\03-Strings.runtimeconfig.json
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\03-Strings\bin\Debug\net10.0\03-Strings.dll
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\03-Strings\bin\Debug\net10.0\03-Strings.pdb
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\03-Strings\obj\Debug\net10.0\03-Strings.dll
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\03-Strings\obj\Debug\net10.0\refint\03-Strings.dll
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\03-Strings\obj\Debug\net10.0\03-Strings.pdb
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\03-Strings\obj\Debug\net10.0\03-Strings.genruntimeconfig.cache
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\03-Strings\obj\Debug\net10.0\ref\03-Strings.dll
