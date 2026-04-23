@@ -1,0 +1,15 @@
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\02b-variables\bin\Debug\net10.0\02b-variables.exe
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\02b-variables\bin\Debug\net10.0\02b-variables.deps.json
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\02b-variables\bin\Debug\net10.0\02b-variables.runtimeconfig.json
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\02b-variables\bin\Debug\net10.0\02b-variables.dll
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\02b-variables\bin\Debug\net10.0\02b-variables.pdb
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\02b-variables\obj\Debug\net10.0\02b-variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\02b-variables\obj\Debug\net10.0\02b-variables.AssemblyInfoInputs.cache
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\02b-variables\obj\Debug\net10.0\02b-variables.AssemblyInfo.cs
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\02b-variables\obj\Debug\net10.0\02b-variables.csproj.CoreCompileInputs.cache
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\02b-variables\obj\Debug\net10.0\02b-variables.sourcelink.json
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\02b-variables\obj\Debug\net10.0\02b-variables.dll
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\02b-variables\obj\Debug\net10.0\refint\02b-variables.dll
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\02b-variables\obj\Debug\net10.0\02b-variables.pdb
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\02b-variables\obj\Debug\net10.0\02b-variables.genruntimeconfig.cache
+C:\Users\jfons\OneDrive\Documentos\GitHub\Curso Unity 6\learning-csharp\02b-variables\obj\Debug\net10.0\ref\02b-variables.dll
